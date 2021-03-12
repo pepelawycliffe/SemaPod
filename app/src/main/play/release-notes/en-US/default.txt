@@ -1,0 +1,7 @@
+- A long-standing wish of many: playing local files! In the 'Add podcast' screen simply tap 'Add local folder' and select a location on your phone! (@ByteHamster, @igoralmeida & @damoasda)
+- Pick a country for the 'Discover' screen (@tonytamsf)
+- Keyboard shortcuts (@asdoi)
+- Search the PodcastIndex.org database (@edwinhere)
+- Pull to refresh (@asdoi)
+- Playback speed & filter dialogs (@ByteHamster & @bws9000)
+- Smooth sleep timer volume (@olivoto)
